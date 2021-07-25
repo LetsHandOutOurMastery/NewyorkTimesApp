@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NY TImes</string>
+    <string name="network_error_occurred">Network error occurred</string>
+    <string name="retry">Retry</string>
+    <string name="search_article">Search Article</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

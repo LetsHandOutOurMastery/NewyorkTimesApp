@@ -1,0 +1,325 @@
+{
+  "status": "OK",
+  "copyright": "XYZ.  All Rights Reserved.",
+  "num_results": 5,
+  "results": [
+    {
+      "uri": "nyt://article/d13457aa-13a8-56dd-b9b3-5716164a94ea",
+      "url": "https://www.nytimes.com/2021/07/04/sports/basketball/espn-rachel-nichols-maria-taylor.html",
+      "id": 100000007779268,
+      "asset_id": 100000007779268,
+      "source": "New York Times",
+      "published_date": "2021-07-04",
+      "updated": "2021-07-06 13:15:32",
+      "section": "Sports",
+      "subsection": "N.B.A.",
+      "nytdsection": "sports",
+      "adx_keywords": "Television;Black People;Athletics and Sports;Workplace Hazards and Violations;Video Recordings, Downloads and Streaming;Hiring and Promotion;Race and Ethnicity;Women and Girls;Basketball;internal-storyline-no;Discrimination;News and News Media;Nichols, Rachel;Taylor, Maria (1987- );Pitaro, James A;Wojnarowski, Adrian;Rose, Jalen;Mendelsohn, Adam;ESPN",
+      "column": null,
+      "byline": "By Kevin Draper",
+      "type": "Article",
+      "title": "A Disparaging Video Prompts Explosive Fallout Within ESPN",
+      "abstract": "In comments still rippling through the network, the reporter Rachel Nichols, who is white, said Maria Taylor, who is Black, earned the job to host 2020 N.B.A. finals coverage because ESPN was “feeling pressure” on diversity.",
+      "des_facet": [
+        "Television",
+        "Black People",
+        "Athletics and Sports",
+        "Workplace Hazards and Violations",
+        "Video Recordings, Downloads and Streaming",
+        "Hiring and Promotion",
+        "Race and Ethnicity",
+        "Women and Girls",
+        "Basketball",
+        "internal-storyline-no",
+        "Discrimination",
+        "News and News Media"
+      ],
+      "org_facet": [
+        "ESPN"
+      ],
+      "per_facet": [
+        "Nichols, Rachel",
+        "Taylor, Maria (1987- )",
+        "Pitaro, James A",
+        "Wojnarowski, Adrian",
+        "Rose, Jalen",
+        "Mendelsohn, Adam"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Maria Taylor, at left front, considered refusing to appear on ESPN’s “NBA Countdown” along with her costars, from left, Jalen Rose, Adrian Wojnarowski and Jay Williams. Rachel Nichols, right, was heard on a video making disparaging comments about Taylor. Jimmy Pitaro, center, ESPN’s president, has tried to smooth over the relationships.",
+          "copyright": "Eleanor Shakespeare",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/01/sports/espn-illustration/espn-illustration-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/01/sports/espn-illustration/espn-illustration-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/01/sports/espn-illustration/espn-illustration-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2d62b0d9-d96f-5c10-87a0-360dcb37dcbd",
+      "url": "https://www.nytimes.com/2021/07/01/nyregion/allen-weisselberg-charged-trump-organization.html",
+      "id": 100000007838438,
+      "asset_id": 100000007838438,
+      "source": "New York Times",
+      "published_date": "2021-07-01",
+      "updated": "2021-07-02 10:24:00",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Tax Evasion;United States Politics and Government;Trump, Donald J;Weisselberg, Allen;Trump Organization",
+      "column": null,
+      "byline": "By Ben Protess, William K. Rashbaum and Jonah E. Bromwich",
+      "type": "Article",
+      "title": "Trump Organization Is Charged With Running 15-Year Employee Tax Scheme",
+      "abstract": "The company was accused of helping its executives evade taxes on compensation by hiding luxury perks and bonuses.",
+      "des_facet": [
+        "Tax Evasion",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Trump Organization"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Weisselberg, Allen"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Allen Weisselberg, center, Thursday afternoon at the Lower Manhattan building that houses the criminal courts and the district attorney’s office.",
+          "copyright": "Jefferson Siegel for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/01/nyregion/01nytrump-indictment12/01nytrump-indictment12-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/01/nyregion/01nytrump-indictment12/merlin_190213464_6cdeedae-9fb9-4ae3-9267-6fcda626c1c3-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/01/nyregion/01nytrump-indictment12/merlin_190213464_6cdeedae-9fb9-4ae3-9267-6fcda626c1c3-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/608d022b-08bb-58fb-a792-e40140c5c75e",
+      "url": "https://www.nytimes.com/2021/07/01/sports/olympics/shacarri-richardson-suspended-marijuana.html",
+      "id": 100000007846960,
+      "asset_id": 100000007846960,
+      "source": "New York Times",
+      "published_date": "2021-07-01",
+      "updated": "2021-07-06 18:00:39",
+      "section": "Sports",
+      "subsection": "Olympics",
+      "nytdsection": "sports",
+      "adx_keywords": "Track and Field;Olympic Games (2020);Marijuana;Richardson, Sha'Carri;Fraser-Pryce, Shelly-Ann;USA Track and Field",
+      "column": null,
+      "byline": "By Kevin Draper and Juliet Macur",
+      "type": "Article",
+      "title": "Sha’Carri Richardson, a Track Sensation, Tests Positive for Marijuana",
+      "abstract": "Richardson, a gold-medal favorite in the women’s 100 meters, was suspended for a month, putting in doubt an appearance at the Tokyo Olympics.",
+      "des_facet": [
+        "Track and Field",
+        "Olympic Games (2020)",
+        "Marijuana"
+      ],
+      "org_facet": [
+        "USA Track and Field"
+      ],
+      "per_facet": [
+        "Richardson, Sha'Carri",
+        "Fraser-Pryce, Shelly-Ann"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sha’Carri Richardson at the U.S. Olympic trials last month in Eugene, Ore.",
+          "copyright": "Chang W. Lee/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/01/sports/00oly-richardson-doping/00oly-richardson-doping-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/01/sports/00oly-richardson-doping/merlin_189515211_a488d264-e3d8-4758-8086-52be6f8486c2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/01/sports/00oly-richardson-doping/merlin_189515211_a488d264-e3d8-4758-8086-52be6f8486c2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c99798cd-67b3-5dd4-9d01-db9e3b52033b",
+      "url": "https://www.nytimes.com/2021/07/04/us/pinetree-country-club-shooting.html",
+      "id": 100000007850227,
+      "asset_id": 100000007850227,
+      "source": "New York Times",
+      "published_date": "2021-07-04",
+      "updated": "2021-07-06 21:05:58",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Murders, Attempted Murders and Homicides;Siller, Gene (1974-2021);Pinetree Country Club (Kennesaw, Ga);Georgia;Kennesaw (Ga)",
+      "column": null,
+      "byline": "By Eduardo Medina",
+      "type": "Article",
+      "title": "Golf Pro Among 3 Dead After Shooting at Georgia Country Club, Police Say",
+      "abstract": "After a golf pro was shot in the head by a man who had driven a truck onto a Kennesaw golf course, two other bodies were found in the bed of the pickup, the authorities said.",
+      "des_facet": [
+        "Murders, Attempted Murders and Homicides"
+      ],
+      "org_facet": [
+        "Pinetree Country Club (Kennesaw, Ga)"
+      ],
+      "per_facet": [
+        "Siller, Gene (1974-2021)"
+      ],
+      "geo_facet": [
+        "Georgia",
+        "Kennesaw (Ga)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A white truck with police tape on the Pinetree Country Club golf course after a shooting that left the club’s golf pro dead. The truck’s bed contained the bodies of two other men who had been shot, the police said.",
+          "copyright": "11Alive",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/04/lens/04xp-golf-photo1/04xp-golf-photo1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/04/lens/04xp-golf-photo1/04xp-golf-photo1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/04/lens/04xp-golf-photo1/04xp-golf-photo1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/fba1f182-ebf8-5319-ae75-277c67cf0118",
+      "url": "https://www.nytimes.com/2021/07/01/sports/olympics/abortion-doping-olympics-mcneal.html",
+      "id": 100000007839376,
+      "asset_id": 100000007839376,
+      "source": "New York Times",
+      "published_date": "2021-07-01",
+      "updated": "2021-07-03 13:31:36",
+      "section": "Sports",
+      "subsection": "Olympics",
+      "nytdsection": "sports",
+      "adx_keywords": "Track and Field;Tests (Drug Use);Doping (Sports);Olympic Games (2020);Fines (Penalties);McNeal, Brianna (1991- );World Athletics",
+      "column": null,
+      "byline": "By Juliet Macur",
+      "type": "Article",
+      "title": "An Abortion, a Missed Drug Test and Altered Records Add Up to Trouble",
+      "abstract": "Brianna McNeal said she didn’t open her door to antidoping officials because she was traumatized after having an abortion. On Friday, a court upheld her five-year suspension.",
+      "des_facet": [
+        "Track and Field",
+        "Tests (Drug Use)",
+        "Doping (Sports)",
+        "Olympic Games (2020)",
+        "Fines (Penalties)"
+      ],
+      "org_facet": [
+        "World Athletics"
+      ],
+      "per_facet": [
+        "McNeal, Brianna (1991- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brianna McNeal, right, competing at the U.S. Olympic track and field trials last month in Eugene, Ore.",
+          "copyright": "Andy Lyons/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/03/sports/02doping-mcneal-print/merlin_189573321_171a2444-4e73-459d-9a7f-93aaa158fbc5-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/03/sports/02doping-mcneal-print/merlin_189573321_171a2444-4e73-459d-9a7f-93aaa158fbc5-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/03/sports/02doping-mcneal-print/merlin_189573321_171a2444-4e73-459d-9a7f-93aaa158fbc5-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
