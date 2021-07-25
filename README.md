@@ -1,28 +1,21 @@
-# NyTimesArticleApp
+# New York Times App
 
-|<img width="250" alt="Screenshot_1625865314" src="https://user-images.githubusercontent.com/5355440/125136652-4ea98b00-e11c-11eb-950a-b1a01c6a14e9.png">
-<img width="250" alt="Screenshot_1625816182" src="https://user-images.githubusercontent.com/5355440/125041754-2a14cb00-e0aa-11eb-949e-9dc4721d74aa.png">
+|<img width="250" alt="Screenshot_1625865314" src="https://raw.githubusercontent.com/LetsHandOutOurMastery/NewyorkTimesApp/master/screenshots/darkmode.jpeg">
+<img width="250" alt="Screenshot_1625816182" src="https://raw.githubusercontent.com/LetsHandOutOurMastery/NewyorkTimesApp/master/screenshots/lightmode.jpeg">
 
-## About
-It loads NyTimes most popular articles and then displays in a list.
-- Supports offline first architecture. 
-- Display the thumbnail in a circular layout
-- Loads details of article in a [WebView](https://developer.android.com/guide/webapps/webview)
-- Added search capability
+## About this app
 
-***To Install and test latest v1.0 app follow below link***
+# This app follows Clean Architecture.
 
-[![NyTimes Article App](https://img.shields.io/badge/V1.0-Article%20App-green)](https://github.com/roymithun/NyTimesArticleApp/releases/download/v1.0/app-release.apk)
+<img width="600" alt="clean_arch" src="https://koenig-media.raywenderlich.com/uploads/2019/06/Clean-Architecture-graph.png">
 
-## Pre-requisites
-Most Popular API from [nytimes developer](https://developer.nytimes.com/apis) have been used.
+# This app follows Single Source of Truth.
+
+<img width="800" alt="ssot" src="https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/images/10-1-c-room-livedata-viewmodel/dg_architecture_comonents.png">
+
+This app uses Most Popular API from [nytimes developer](https://developer.nytimes.com/apis).
 
 For example: https://api.nytimes.com/svc/mostpopular/v2/mostviewed/all-sections/7.json?api-key=yourkey
-
-Where your_key has to be generated following [get-started](https://developer.nytimes.com/get-started) page from nytimes.
-
-Once you have yourkey, please add a new entry in **local.properties** inside your project directory. Since local.properties is added in [.gitignore](https://github.com/roymithun/NyTimesArticleApp/blob/master/.gitignore). it is never added to VCS. This way your appKey can be kept somehow secured.
-- **appKey = your_key**
 
 ## Built With 🛠
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
@@ -70,8 +63,3 @@ Once you have yourkey, please add a new entry in **local.properties** inside you
     │   └── details               # Detail Screen Fragment
     |
     └── utils                     # Utility Classes / Kotlin extensions
-
-## Architecture
-This app uses [***MVVM (Model View View-Model)***](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) architecture.
-
-<img width="600" alt="final-mvvm-architecture" src="https://developer.android.com/topic/libraries/architecture/images/final-architecture.png">
